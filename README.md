@@ -38,26 +38,26 @@
 ---
 ### 取得所有票種的資訊
 
-![image](https://github.com/JasperSui/TicTicket-DjangoRestFramework/tree/master/Image/1.jpg)
+![image](Image/1.jpg)
 
 ### 取得特定 ID 票種的資訊
 
-![image](https://github.com/JasperSui/TicTicket-DjangoRestFramework/tree/master/Image/2.jpg)
+![image](Image/2.jpg)
 
 ### 購票
 
-![image](https://github.com/JasperSui/TicTicket-DjangoRestFramework/tree/master/Image/3.jpg)
+![image](Image/3.jpg)
 
 ### 會員註冊
 
-![image](https://github.com/JasperSui/TicTicket-DjangoRestFramework/tree/master/Image/4.jpg)
+![image](Image/4.jpg)
 
 ### 會員登入
 
-![image](https://github.com/JasperSui/TicTicket-DjangoRestFramework/tree/master/Image/5.jpg)
+![image](Image/5.jpg)
 
 ### 透過 Email 取得該會員資料
 
-![image](https://github.com/JasperSui/TicTicket-DjangoRestFramework/tree/master/Image/6.jpg)
+![image](Image/6.jpg)
 
 
