@@ -1,4 +1,4 @@
-# TicTicket-DjangoRestFramework
+# TicTicket-DjangoRestFramework-Ticket-Backend
 
 用來作為 TicTicket 專案內的票券後台，架設在 Google Cloud Platform 機器，
 
@@ -14,16 +14,16 @@
 
 ## 目錄
 
-- [TicTicket-DjangoRestFramework](#TicTicket-DjangoRestFramework)
+- [TicTicket-DjangoRestFramework-Ticket-Backend](#TicTicket-DjangoRestFramework-Ticket-Backend)
   * [目錄](#目錄)
   * [開發環境](#開發環境)
   * [接口展示](#接口展示)
     + [取得所有票種的資訊](#取得所有票種的資訊)
-    + [取得特定 ID 票種的資訊](#取得特定%20ID%20票種的資訊)
+    + [取得特定 ID 票種的資訊](#取得特定-ID-票種的資訊)
     + [購票](#購票)
     + [會員註冊](#會員註冊)
     + [會員登入](#會員登入)
-    + [透過 Email 取得該會員資料](#透過Email%20%20取得該會員資料)
+    + [透過 Email 取得該會員資料](#透過Email-%-取得該會員資料)
   
 開發環境
 ---
